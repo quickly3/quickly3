@@ -51,6 +51,13 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white)
 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![BitBucket](https://img.shields.io/badge/BitBucket-0052CC?style=flat-square&logo=BitBucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=flat-square&logo=SourceTree&logoColor=white)
+
+
+
 #### ⚡Experienced Tech
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=AngularJS&logoColor=white)
 ![Jquery](https://img.shields.io/badge/Jquery-0769AD?style=flat-square&logo=Jquery&logoColor=white)
