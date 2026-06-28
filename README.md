@@ -1,7 +1,20 @@
 ###  Hello World ! 👋
 
 
-```Codeing for fun.```
+```Coding for fun.```
+
+#### 👨‍💻 About Me
+- 🏛️ **资深全栈架构师** —— 10+ 年前后端开发与系统架构经验，长期担任架构师及核心模块负责人，擅长高并发分布式系统的设计与落地。
+- 🎓 毕业于 **山东大学信息管理专业**，兼具财务、经济、管理知识，能从业务与技术双视角推动项目落地。
+- ⚙️ 精通 **Node.js / PHP**，熟练 **Python**（Scrapy 爬虫、Scikit-learn & NeuralProphet 大数据建模与预测）。
+- 🧩 熟练 **Laravel / NestJS / Angular / React** 全流程开发。
+- 🚀 精通分布式与微服务架构，熟悉消息队列（SQS / BullMQ）、多级缓存（Redis），曾编写支撑 **10 万/小时** 的消息分发服务。
+- 🗄️ 精通数据库架构设计与性能优化（MySQL / PostgreSQL），多年 Elasticsearch / Solr 调优经验。
+- ☁️ 熟悉 **AWS 全栈服务**（RDS、EC2、Load Balancer、SQS、Lambda、SES、Pinpoint 等），精通 REST / GraphQL / gRPC API 设计。
+- 🧪 熟练 Playwright / Puppeteer 自动化测试，关注系统安全与权限模型的前置设计。
+- 🤖 熟练运用 AI 编程工具（GitHub Copilot），按成本与性能灵活切换模型并自定义 Skill 优化研发工作流；英文读写流利，胜任跨团队协作。
+- 🧯 常充当 **"救火员"** 角色，支援其它项目与同事，优化低效代码并解决因设计缺陷导致的内存不足、服务死机等线上故障。
+- 🔭 自主设计并运营爬虫数据平台，构建个人技术情报体系，持续追踪前沿技术与行业趋势。
 
 #### 🌱 Main Lan
 
@@ -25,7 +38,16 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) 
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
 
-#### 💬Main Search Engine
+#### � Message Queue
+![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-EE4323?style=flat-square&logo=redis&logoColor=white)
+
+#### 🔌 API Design
+![REST](https://img.shields.io/badge/REST-02569B?style=flat-square&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white)
+
+#### �💬Main Search Engine
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elastic&logoColor=white)
 
 #### 📫Main Database
@@ -45,6 +67,14 @@
 ![Scrapy](https://img.shields.io/badge/Scrapy-60a839?style=flat-square&logoColor=white)
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 ![UI.Vision](https://img.shields.io/badge/UI.Vision-4169E1?style=flat-square&logoColor=white)
+
+#### 🧪 Test & Automation
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+
+#### 🤖 AI & Tooling
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 #### 😄 Main Dev Environment
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white)
@@ -70,6 +100,8 @@
 #### 🔭 Liked Tech
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-013243?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![NeuralProphet](https://img.shields.io/badge/NeuralProphet-3F6EB5?style=flat-square&logoColor=white)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-013243?style=flat-square&logoColor=white)
 
